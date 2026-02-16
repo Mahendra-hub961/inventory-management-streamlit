@@ -42,7 +42,7 @@ Password: admin123
 ```
 inventory-management-streamlit/
 │
-├── app.py
+├── inventorymanagement.py
 ├── requirements.txt
 └── README.md
 ```
@@ -60,7 +60,7 @@ pip install -r requirements.txt
 ### 2️⃣ Run the application
 
 ```bash
-streamlit run app.py
+streamlit run inventory mangement.py
 ```
 
 ---
